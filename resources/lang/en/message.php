@@ -8,6 +8,6 @@
         'Continue_Shopping' => 'Continue Shopping',
         'Checkout' => 'Checkout',
         'Add_To_Cart' => 'Add To Cart',
-        'GitHub' => 'GitHub',
+        'cart' => 'Cart',
     ]
 ?>
